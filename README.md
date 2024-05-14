@@ -2,7 +2,7 @@
 
 #### I'm a backend specialist who likes to use Java in projects.
 
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/julio-nascimento-borges) or [Instagram](https://www.instagram.com/julio_borges05/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/julio-nascimento-borges) or [Instagram](https://www.instagram.com/julio_borges05/)
 - 🤖 Fun fact: I'm a robot lover!
 
 <div>
